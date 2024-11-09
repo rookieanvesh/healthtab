@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HealthtabApplication {
+public class HealthTabApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HealthtabApplication.class, args);
+		SpringApplication.run(HealthTabApplication.class, args);
 	}
 
 }
